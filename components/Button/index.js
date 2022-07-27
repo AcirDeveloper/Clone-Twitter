@@ -25,7 +25,7 @@ function Button({ children, onClick }) {
                 }
             `}</style>
         </>
-    );
+    )
 }
 
-export default Button;
+export default Button
