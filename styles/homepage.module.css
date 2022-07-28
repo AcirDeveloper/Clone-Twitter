@@ -1,0 +1,47 @@
+/* HOME */
+.header {
+    position: sticky;
+    height: 49px;
+    top: 0;
+    border-bottom: 1px solid #ccc;
+    align-items: center;
+    width: 100%;
+    display: flex;
+}
+
+.h2 {
+    font-size: 21px;
+    font-weight: 800;
+}
+
+.section {
+    padding-top: 49px;
+}
+
+.nav {
+    bottom: 0;
+    border-top: 1px solid #ccc;
+    height: 49px;
+    position: sticky;
+    width: 100%;
+    background-color: aqua;
+}
+/* FIN DEL HOME */
+
+/* Esto estilisa el devit */
+.article {
+    border-bottom: 2px solid #eaf7ff;
+    display: flex;
+    padding: 10px 15px;
+}
+
+.article__div {
+    padding-right: 10px;
+}
+
+.article__section_p {
+    line-height: 1.3125;
+    margin: 0;
+}
+
+/* Fin de devit */
